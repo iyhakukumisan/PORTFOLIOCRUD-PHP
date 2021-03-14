@@ -1,7 +1,7 @@
 # Open your xampp
 ### enable apache and mysql
 
-### auto create database
+## auto create database
 
 ### create an default account first with ``username = admin password = admin``
 
