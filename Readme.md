@@ -1,5 +1,5 @@
 # Open your xampp
-enable apache and mysql
+### enable apache and mysql
 
 ### auto create database
 
