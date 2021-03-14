@@ -1,0 +1,139 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css";
+.err{
+    color:red;
+    padding:10px;
+}
+
+body{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+    background-image: url('portfolio.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+   
+    
+}
+
+.login-box{
+    width:280px;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    background-color:rgba(255, 255, 255, 0.445);
+    color:black;
+    border: 2px solid black;
+    padding: 20px;
+}
+
+.login-box h1{
+    float:left;
+    font-size:40px;
+    border-bottom: 6px solid;
+    margin-bottom: 50px;
+    padding: 13px 0;
+
+}
+
+.textbox{
+    width:100%;
+    overflow: hidden;
+    font-size: 20px;
+    padding: 8px 0;
+    margin: 8px 0;
+    border-bottom: 1px solid #4caf50;
+
+}
+
+.textbox i{
+    width:26px;
+    float:left;
+    text-align: center;
+    margin:5px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body{
+    background-color:black;
+    color:yellow;
+    margin:0px;
+   
+
+}
+p{
+    font-family: Impact,Arial, sans-serif;
+    font-size: 14px;
+    text-align:center;
+    background-color:aquamarine;
+    color:Black;
+    height:50px;
+
+}
+
+.formdesign{
+    background-color:pink;
+    height:200px;
+    width:700px;
+    color:red;
+    padding:80px;
+    border: 2px solid red;
+    
+
+}
+
+.textfield{
+    width: 200px;
+    padding: 2px;
+    margin: 5px;
+    background-color:yellow;
+
+}
+
+label{
+    margin:5px;
+    color:blue;
+
+}
+
+input[type="submit"]{
+    width: 100px;
+    padding: 2px;
+    margin: 5px;
+    background-color:teal;
+    color:yellow;
+}
+
+input[type="submit"]:hover{
+
+    background-color:white;
+    color:black;
+} */

@@ -1,0 +1,55 @@
+body{
+    background-color:black;
+    color:yellow;
+    margin:0px;
+   
+
+}
+p{
+    font-family: Impact,Arial, sans-serif;
+    font-size: 14px;
+    text-align:center;
+    background-color:aquamarine;
+    color:Black;
+    height:50px;
+
+}
+
+.formdesign{
+    background-color:pink;
+    height:200px;
+    width:700px;
+    color:red;
+    padding:80px;
+    border: 2px solid red;
+    
+
+}
+
+.textfield{
+    width: 200px;
+    padding: 2px;
+    margin: 5px;
+    background-color:yellow;
+
+}
+
+label{
+    margin:5px;
+    color:blue;
+
+}
+
+input[type="submit"]{
+    width: 100px;
+    padding: 2px;
+    margin: 5px;
+    background-color:teal;
+    color:yellow;
+}
+
+input[type="submit"]:hover{
+
+    background-color:white;
+    color:black;
+}
