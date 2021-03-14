@@ -8,5 +8,5 @@ create an default account first with username = admin password = admin
 not fully finished but you can try it 
 click star and follow me :) Thank you
 
-SIMPLE CRUD WITH PORTFOLIO website
-HTML + CSS + + JS + PHP  
+## SIMPLE Create Read Update and Delete(CRUD) WITH PORTFOLIO website
+### HTML + CSS + + JS + PHP  
