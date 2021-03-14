@@ -110,6 +110,9 @@ if(isset($_POST["btn_send"])){
     <li class="nav-item">
       <a class="nav-link" href="../crudphpfile/search.php">SEARCH</a>
     </li>
+    <li class="nav-item">
+      <a class="nav-link" href="../admin/report.php">REPORT</a>
+    </li>
 	</ul>
 	</h1>
 	
