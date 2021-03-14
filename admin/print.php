@@ -43,4 +43,5 @@ $pdf->SetFont("Arial","B",8);
 $pdf->output();
 
 //guide ito -> Cell(width,height,"label na llaabs sa pdf",border,newline,text alignment)
+//puede mo icheck ung tutorial file nila  sa folder ng FPDF
 ?>
